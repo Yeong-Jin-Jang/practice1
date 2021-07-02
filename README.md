@@ -1,2 +1,1 @@
-# practice1
-GithubDesktop practice1
+#  깃허브 데스크탑 연습 리포지터리
